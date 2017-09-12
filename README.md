@@ -7,6 +7,7 @@ On running train.py you should see something like this:
 
 0 model saved
 Epoch {1}, Training Acc: {tensor(47.6662, device='cuda:0')} , Training loss: {0.6679016842784774} , Test Acc: {tensor(44.6488, device='cuda:0')}
+
 1 model saved
 Epoch {2}, Training Acc: {tensor(62.2584, device='cuda:0')} , Training loss: {0.5133580246493256} , Test Acc: {tensor(59.8067, device='cuda:0')}
 2 model saved
