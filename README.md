@@ -3,6 +3,18 @@ Classify images of flowers. Prints the name of the flower for the image given. T
 
 Data: https://www.kaggle.com/alxmamaev/flowers-recognition
 
+Classification tried on a data set of images of flowers
+    Data is organised as a folder called flowers with subfolders each containing flowers of one type. Class name is the name of the folder
+    Data Size: 200mb
+    CNN: 14 layers
+    Epochs: 20
+    Batch size: 100
+    Training Accuracy: 98.16%
+    Test Accuracy: 99.407%
+    Training loss: 0.067%
+    Optimizer: Adam
+    Loss function: Cross Entropy Loss
+
 On running train.py you should see something like this:
 
 0 model saved
