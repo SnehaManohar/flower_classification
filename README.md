@@ -1,5 +1,5 @@
 # flower_classification
-Classify images of flowers. Gives the name of the flower for the given image. Trained for 5 classes: Daisy, dandelion, rose, sunflower, tulip
+Classify images of flowers. Prints the name of the flower for the image given. Trained for 5 classes: Daisy, dandelion, rose, sunflower, tulip
 
 Data: https://www.kaggle.com/alxmamaev/flowers-recognition
 
